@@ -1,0 +1,5 @@
+flutter create .   (create new app in the current directory)
+flutter pub get (install all dependencies)
+
+create subfolders in lib folder to organise your code
+
